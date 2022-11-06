@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/css/main.4a4892bc.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/js/main.d73699a2.chunk.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/js/main.4efb0397.chunk.js",
     "runtime-main.js": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/js/runtime-main.e35f49bb.js",
     "static/css/2.24bf1742.chunk.css": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/css/2.24bf1742.chunk.css",
     "static/js/2.7c16c049.chunk.js": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/js/2.7c16c049.chunk.js",
     "index.html": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/index.html",
-    "precache-manifest.fdcbe623167f38c1dad78eb41d35e836.js": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/precache-manifest.fdcbe623167f38c1dad78eb41d35e836.js",
+    "precache-manifest.6323fd1b0ccb0bb482a3bc9622319c4b.js": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/precache-manifest.6323fd1b0ccb0bb482a3bc9622319c4b.js",
     "service-worker.js": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/service-worker.js",
     "static/js/2.7c16c049.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/js/2.7c16c049.chunk.js.LICENSE.txt",
     "static/media/Banner.module.scss": "https://cdn.jsdelivr.net/gh/sophister/xxz-1/static/media/banner2.8befb1ca.jpg",
@@ -18,6 +18,6 @@
     "static/css/2.24bf1742.chunk.css",
     "static/js/2.7c16c049.chunk.js",
     "static/css/main.4a4892bc.chunk.css",
-    "static/js/main.d73699a2.chunk.js"
+    "static/js/main.4efb0397.chunk.js"
   ]
 }
